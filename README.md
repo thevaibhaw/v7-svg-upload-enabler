@@ -146,7 +146,7 @@ For support, bug reports, or feature requests:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit pull requests or open issues on the [GitHub repository](https://github.com/vaibhawkumar/v7-svg-upload-enabler).
+Contributions are welcome! Please feel free to submit pull requests or open issues on the [TheVaibhaw](https://github.com/thevaibhaw/v7-svg-upload-enabler).
 
 ## License
 
