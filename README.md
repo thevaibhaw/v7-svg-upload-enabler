@@ -42,7 +42,7 @@ The V7 SVG Upload Enabler plugin allows you to upload SVG (Scalable Vector Graph
 
 ### Manual Installation
 
-1. Download the plugin ZIP file from the [WordPress Plugin Directory](https://wordpress.org/plugins/)
+1. Download the plugin ZIP file from the [WordPress Plugin Directory](https://github.com/thevaibhaw/v7-svg-upload-enabler/archive/refs/heads/main.zip)
 2. Log in to your WordPress admin dashboard
 3. Navigate to **Plugins > Add New > Upload Plugin**
 4. Click **Choose File** and select the downloaded ZIP file
